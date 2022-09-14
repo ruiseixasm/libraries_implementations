@@ -1,4 +1,5 @@
-#include "..\..\includes\computer\rtmidi\RtMidi.h"
+// #include "..\..\includes\computer\rtmidi\RtMidi.h"
+#include "C:\Users\rui\Documents\GitHub\repositories\computer\rtmidi\RtMidi.h"
 
 /**
  * @brief An example program for midi devices.
