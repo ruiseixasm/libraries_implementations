@@ -18,7 +18,5 @@ int main()
 		std::cout << word << " ";
 	}
 	std::cout << std::endl;
-	
-	std::cin;
 
 }
