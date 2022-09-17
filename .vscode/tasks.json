@@ -3,7 +3,7 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: g++.exe build active file",
+            "label": "C/C++: GCC Compiler - Version 6.3.0",
             "command": "C:\\MinGW\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
@@ -24,7 +24,7 @@
         },
         {
             "type": "cppbuild",
-            "label": "C/C++: cl.exe build active file",
+            "label": "C/C++: MSVC Compiler - Version 19.29.30146 for x86",
             "command": "cl.exe",
             "args": [
                 "/Zi",

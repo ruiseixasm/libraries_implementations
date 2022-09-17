@@ -16,3 +16,4 @@ HOW-TO (Visual Studio Code):
 	13. Select the cl.exe configure task
 	14. On the new tasks.json configuration part add cl paramenter "/std:c++17",
 	15. On the c++ tasks.json configuration part add "-std=c++17",
+	16. Edit the configuration tasks.json labels in order to make them easily identifiable
