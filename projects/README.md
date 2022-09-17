@@ -14,3 +14,5 @@ HOW-TO (Visual Studio Code):
 	11. Type "cl.exe" to check the compiler on the VS Code
 	12. Click on Terminal->Configure Tasks...
 	13. Select the cl.exe configure task
+	14. On the new tasks.json configuration part add cl paramenter "/std:c++17",
+	15. On the c++ tasks.json configuration part add "-std=c++17",

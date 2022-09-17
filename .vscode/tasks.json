@@ -28,6 +28,7 @@
             "command": "cl.exe",
             "args": [
                 "/Zi",
+				"/std:c++17",
                 "/EHsc",
                 "/nologo",
                 "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
