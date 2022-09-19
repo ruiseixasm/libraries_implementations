@@ -7,7 +7,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <map>
-#include <..\include\libremidi\libremidi.hpp>
+#include "../include/libremidi/libremidi.hpp"
 
 int main()
 
